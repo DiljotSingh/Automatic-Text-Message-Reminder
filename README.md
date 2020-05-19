@@ -1,6 +1,6 @@
-# Google-Forms-Text-Reminder
+# Automatic-Text-Message-Reminder
 
 
-Project has been fully designed, developed, and tested, just undergoing authorization by Twilio!
+Project has been fully designed, developed, tested, and has received funding from Twilio!
 
-Impact: Program can send an automatic text message reminder to anyone who scans a specified QR code. I developed this to boost student engagement in my university Computer Science Club's upcoming election, leading to increased membership numbers. Corresponding technology will be distributed across campus.
+Impact: Program can send an automatic text message reminder to anyone who scans a specified QR code. The objective is to increase student participation in the CS Club by sending out reminders for meetings and events. Over hundreds of text messages can be sent out simulatenously by running the program.
