@@ -1,7 +1,7 @@
 # Automatic-Text-Message-Reminder
 
 
-Project has been fully designed, developed, tested, and has even received funding from Twilio!
+Project has been fully designed, developed, and tested, and has also received funding from Twilio!
 
 Impact: Program can send an automatic text message reminder to anyone who scans a specified QR code. The objective is to increase student participation in the CS Club by sending out automated reminders for meetings and events. Over hundreds of text messages can be sent out simultaneously by running the program.
 
